@@ -1,2 +1,5 @@
 #!/bin/bash
 rm /tmp/my_first_directory/betty
+[master d146deb] Task 8.Bye bye betty
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/8-firstdelete
