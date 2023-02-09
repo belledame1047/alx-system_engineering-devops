@@ -1,1 +1,1 @@
-(9) scrip that set permission
+(10) script that sets the mode of the file
